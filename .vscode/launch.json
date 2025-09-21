@@ -4,7 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Portfolio (Chrome)",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}",
+            "preLaunchTask": "start-server"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Portfolio (File)",
+            "url": "${workspaceFolder}/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
         {
             "type": "chrome",
             "request": "launch",

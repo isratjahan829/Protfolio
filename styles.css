@@ -1,5 +1,4 @@
 /* Reset and Base Styles */
-/\/\*\*/ INSERT_YOUR_CODE */
 /* 
     Professional, industry-standard base and reset styles for a modern portfolio.
     Uses a neutral color palette, smooth transitions, and accessible font sizing.
@@ -1729,29 +1728,6 @@ section {
 .organization-card p,
 .certification-card p {
     color: #d1d5db;
-}
-
-.certification-issuer {
-    color: #60a5fa;
-    font-size: 0.9rem;
-    font-weight: 500;
-}
-
-.certification-date {
-    color: #60a5fa;
-    font-size: 0.9rem;
-    font-weight: 500;
-}
-
-.skill-tag {
-    background-color: #1e40af;
-    color: #ffffff;
-    padding: 0.25rem 0.75rem;
-    border-radius: 15px;
-    font-size: 0.8rem;
-    font-weight: 500;
-    margin: 0.25rem;
-    display: inline-block;
 }
 
 /* Contact Section Dark Theme */
