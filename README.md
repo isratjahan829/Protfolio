@@ -72,10 +72,3 @@ The website uses a professional blue and purple gradient theme. To change colors
 ## Contact
 
 For any questions or customization needs, feel free to reach out!
-
----
-
-**Note**: This portfolio website is ready to use and can be easily customized to match your personal brand and preferences.
-=======
-# Protfolio
->>>>>>> d9ad5c38b5e830bc84dca99645fa26b35ca6dd5d
