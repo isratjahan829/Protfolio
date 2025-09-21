@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Israt Jahan - Portfolio Website
 
 A modern, responsive portfolio website showcasing your academic achievements, research publications, and professional experience.
@@ -75,3 +76,6 @@ For any questions or customization needs, feel free to reach out!
 ---
 
 **Note**: This portfolio website is ready to use and can be easily customized to match your personal brand and preferences.
+=======
+# Protfolio
+>>>>>>> d9ad5c38b5e830bc84dca99645fa26b35ca6dd5d
